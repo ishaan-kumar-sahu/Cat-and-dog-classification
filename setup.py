@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "Cat-and-dog-classification"
 AUTHOR_USER_NAME = "ishaan-kumar-sahu"
 SRC_REPO = "CNNclassifier"
-AUTHOR_EMAIL = "mr.ishaankumar@gmail.com"
+AUTHOR_EMAIL = "mr.ishaankumarclear@gmail.com"
 
 
 setuptools.setup(
